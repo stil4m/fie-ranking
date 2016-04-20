@@ -240,9 +240,9 @@
       "included" : true,
       "validated" : true
     }, {
-      "value" : 21.0,
-      "included" : false,
-      "validated" : false
+      "value" : 39.0,
+      "included" : true,
+      "validated" : true
     }, null ]
   }, {
     "rank" : 3,
@@ -398,8 +398,8 @@
       "validated" : true
     }, {
       "value" : 48.0,
-      "included" : false,
-      "validated" : false
+      "included" : true,
+      "validated" : true
     }, null ]
   }, {
     "rank" : 6,
@@ -758,9 +758,9 @@
       "included" : true,
       "validated" : true
     }, {
-      "value" : 12.0,
-      "included" : false,
-      "validated" : false
+      "value" : 30.0,
+      "included" : true,
+      "validated" : true
     }, null ]
   }, {
     "rank" : 13,
@@ -1102,7 +1102,11 @@
       "value" : 6.0,
       "included" : true,
       "validated" : true
-    }, null, null ]
+    }, {
+      "value" : 30.0,
+      "included" : true,
+      "validated" : true
+    }, null ]
   }, {
     "rank" : 20,
     "fieId" : "15182",
@@ -1345,7 +1349,11 @@
       "value" : 3.0,
       "included" : true,
       "validated" : true
-    }, null, null ]
+    }, {
+      "value" : 12.0,
+      "included" : true,
+      "validated" : true
+    }, null ]
   }, {
     "rank" : 25,
     "fieId" : "4057",
@@ -1448,9 +1456,9 @@
       "included" : true,
       "validated" : true
     }, {
-      "value" : 39.0,
-      "included" : false,
-      "validated" : false
+      "value" : 21.0,
+      "included" : true,
+      "validated" : true
     }, null ]
   }, {
     "rank" : 27,
@@ -1545,7 +1553,11 @@
       "value" : 1.5,
       "included" : true,
       "validated" : true
-    }, null, null ]
+    }, null, {
+      "value" : 48.0,
+      "included" : true,
+      "validated" : true
+    } ]
   }, {
     "rank" : 29,
     "fieId" : "22449",
@@ -1819,7 +1831,11 @@
       "value" : 3.0,
       "included" : false,
       "validated" : true
-    }, null, null, null, null, {
+    }, null, null, {
+      "value" : 21.0,
+      "included" : false,
+      "validated" : false
+    }, null, {
       "value" : 2.0,
       "included" : false,
       "validated" : true
@@ -1997,9 +2013,9 @@
       "included" : true,
       "validated" : true
     }, null, null, null, {
-      "value" : 21.0,
-      "included" : false,
-      "validated" : false
+      "value" : 39.0,
+      "included" : true,
+      "validated" : true
     } ]
   }, {
     "rank" : 38,
@@ -2019,7 +2035,11 @@
       "value" : 6.0,
       "included" : false,
       "validated" : true
-    }, null, null, null, null, {
+    }, null, null, {
+      "value" : 21.0,
+      "included" : false,
+      "validated" : false
+    }, null, {
       "value" : 8.0,
       "included" : true,
       "validated" : true
@@ -2100,8 +2120,8 @@
       "validated" : true
     }, null, {
       "value" : 21.0,
-      "included" : false,
-      "validated" : false
+      "included" : true,
+      "validated" : true
     } ]
   }, {
     "rank" : 40,
@@ -2307,9 +2327,9 @@
       "included" : true,
       "validated" : true
     }, {
-      "value" : 6.0,
-      "included" : false,
-      "validated" : false
+      "value" : 21.0,
+      "included" : true,
+      "validated" : true
     }, null ]
   }, {
     "rank" : 44,
@@ -2351,8 +2371,8 @@
       "validated" : true
     }, null, null, null, null, {
       "value" : 30.0,
-      "included" : false,
-      "validated" : false
+      "included" : true,
+      "validated" : true
     } ]
   }, {
     "rank" : 45,
@@ -2397,9 +2417,9 @@
       "included" : true,
       "validated" : true
     }, {
-      "value" : 30.0,
-      "included" : false,
-      "validated" : false
+      "value" : 21.0,
+      "included" : true,
+      "validated" : true
     }, null ]
   }, {
     "rank" : 46,
@@ -2452,9 +2472,9 @@
       "included" : false,
       "validated" : true
     }, {
-      "value" : 30.0,
-      "included" : false,
-      "validated" : false
+      "value" : 12.0,
+      "included" : true,
+      "validated" : true
     }, null ]
   }, {
     "rank" : 47,
@@ -2494,7 +2514,11 @@
       "value" : 3.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, null, null, null, null ]
+    }, null, null, null, null, null, {
+      "value" : 21.0,
+      "included" : true,
+      "validated" : true
+    }, null ]
   }, {
     "rank" : 48,
     "fieId" : "11021",
@@ -2749,9 +2773,9 @@
       "included" : true,
       "validated" : true
     }, null, null, null, null, null, null, null, null, null, null, null, {
-      "value" : 39.0,
-      "included" : false,
-      "validated" : false
+      "value" : 30.0,
+      "included" : true,
+      "validated" : true
     } ]
   }, {
     "rank" : 54,
@@ -3055,9 +3079,9 @@
       "included" : true,
       "validated" : true
     }, {
-      "value" : 21.0,
-      "included" : false,
-      "validated" : false
+      "value" : 12.0,
+      "included" : true,
+      "validated" : true
     }, null ]
   }, {
     "rank" : 60,
@@ -3091,8 +3115,8 @@
       "validated" : true
     }, null, null, null, null, {
       "value" : 21.0,
-      "included" : false,
-      "validated" : false
+      "included" : true,
+      "validated" : true
     } ]
   }, {
     "rank" : 61,
@@ -3380,9 +3404,9 @@
       "included" : true,
       "validated" : true
     }, {
-      "value" : 3.0,
-      "included" : false,
-      "validated" : false
+      "value" : 6.0,
+      "included" : true,
+      "validated" : true
     }, null ]
   }, {
     "rank" : 67,
@@ -3402,7 +3426,11 @@
       "value" : 21.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+    }, null, null, null, null, null, null, null, null, null, null, null, null, null, {
+      "value" : 21.0,
+      "included" : true,
+      "validated" : true
+    } ]
   }, {
     "rank" : 68,
     "fieId" : "31227",
@@ -3426,9 +3454,9 @@
       "included" : true,
       "validated" : true
     }, null, null, null, null, null, null, null, null, {
-      "value" : 12.0,
-      "included" : false,
-      "validated" : false
+      "value" : 21.0,
+      "included" : true,
+      "validated" : true
     } ]
   }, {
     "rank" : 69,
@@ -4012,7 +4040,11 @@
       "value" : 1.5,
       "included" : true,
       "validated" : true
-    }, null, null ]
+    }, {
+      "value" : 12.0,
+      "included" : true,
+      "validated" : true
+    }, null ]
   }, {
     "rank" : 82,
     "fieId" : "22599",
@@ -4041,8 +4073,8 @@
       "validated" : true
     }, null, null, null, null, null, null, null, null, null, {
       "value" : 12.0,
-      "included" : false,
-      "validated" : false
+      "included" : true,
+      "validated" : true
     }, null ]
   }, {
     "rank" : 83,
@@ -4295,8 +4327,8 @@
       "validated" : true
     }, null, null, {
       "value" : 6.0,
-      "included" : false,
-      "validated" : false
+      "included" : true,
+      "validated" : true
     }, null ]
   }, {
     "rank" : 89,
@@ -4423,9 +4455,9 @@
       "included" : true,
       "validated" : true
     }, {
-      "value" : 12.0,
-      "included" : false,
-      "validated" : false
+      "value" : 6.0,
+      "included" : true,
+      "validated" : true
     }, null ]
   }, {
     "rank" : 92,
@@ -4532,7 +4564,11 @@
       "value" : 0.0,
       "included" : false,
       "validated" : true
-    }, null, null, null, null ]
+    }, null, null, {
+      "value" : 12.0,
+      "included" : true,
+      "validated" : true
+    }, null ]
   }, {
     "rank" : 94,
     "fieId" : "18832",
@@ -4588,8 +4624,8 @@
       "validated" : true
     }, null, null, null, null, null, null, null, null, null, null, null, {
       "value" : 12.0,
-      "included" : false,
-      "validated" : false
+      "included" : true,
+      "validated" : true
     } ]
   }, {
     "rank" : 96,
@@ -4708,8 +4744,8 @@
       "validated" : true
     }, null, null, null, null, null, null, null, null, null, null, null, null, null, {
       "value" : 12.0,
-      "included" : false,
-      "validated" : false
+      "included" : true,
+      "validated" : true
     } ]
   }, {
     "rank" : 100,
@@ -4725,7 +4761,11 @@
       "value" : 12.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+    }, null, null, null, null, null, null, null, null, null, null, null, null, null, {
+      "value" : 12.0,
+      "included" : true,
+      "validated" : true
+    } ]
   }, {
     "rank" : 101,
     "fieId" : "38225",
@@ -4742,8 +4782,8 @@
       "validated" : true
     }, null, null, null, null, null, null, null, null, null, null, null, null, null, {
       "value" : 12.0,
-      "included" : false,
-      "validated" : false
+      "included" : true,
+      "validated" : true
     } ]
   }, {
     "rank" : 102,
@@ -4759,7 +4799,11 @@
       "value" : 12.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+    }, null, null, null, null, null, null, null, null, null, null, null, null, null, {
+      "value" : 12.0,
+      "included" : true,
+      "validated" : true
+    } ]
   }, {
     "rank" : 103,
     "fieId" : "29134",
@@ -4813,7 +4857,11 @@
       "value" : 0.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null ]
+    }, null, null, null, null, null, null, null, null, null, null, null, {
+      "value" : 12.0,
+      "included" : true,
+      "validated" : true
+    } ]
   }, {
     "rank" : 105,
     "fieId" : "33248",
@@ -4832,7 +4880,11 @@
       "value" : 0.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null ]
+    }, null, null, null, null, null, null, null, null, null, null, null, {
+      "value" : 12.0,
+      "included" : true,
+      "validated" : true
+    } ]
   }, {
     "rank" : 106,
     "fieId" : "33181",
@@ -4847,7 +4899,11 @@
       "value" : 12.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+    }, null, null, null, null, null, null, null, null, null, null, null, {
+      "value" : 12.0,
+      "included" : true,
+      "validated" : true
+    }, null ]
   }, {
     "rank" : 106,
     "fieId" : "33232",
@@ -4898,9 +4954,9 @@
       "included" : true,
       "validated" : true
     }, null, null, {
-      "value" : 6.0,
-      "included" : false,
-      "validated" : false
+      "value" : 12.0,
+      "included" : true,
+      "validated" : true
     }, null ]
   }, {
     "rank" : 109,
@@ -4939,7 +4995,11 @@
       "value" : 12.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+    }, null, null, null, null, null, null, null, null, null, null, null, null, null, {
+      "value" : 12.0,
+      "included" : true,
+      "validated" : true
+    } ]
   }, {
     "rank" : 111,
     "fieId" : "17547",
@@ -5275,8 +5335,8 @@
       "validated" : true
     }, {
       "value" : 6.0,
-      "included" : false,
-      "validated" : false
+      "included" : true,
+      "validated" : true
     }, null ]
   }, {
     "rank" : 121,
@@ -5329,9 +5389,9 @@
       "included" : true,
       "validated" : true
     }, {
-      "value" : 12.0,
-      "included" : false,
-      "validated" : false
+      "value" : 6.0,
+      "included" : true,
+      "validated" : true
     }, null ]
   }, {
     "rank" : 122,
@@ -5456,7 +5516,11 @@
       "value" : 0.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, null, null, {
+    }, null, null, null, null, {
+      "value" : 12.0,
+      "included" : false,
+      "validated" : false
+    }, {
       "value" : 5.0,
       "included" : true,
       "validated" : true
@@ -5594,8 +5658,8 @@
       "validated" : true
     }, null, null, null, null, null, {
       "value" : 6.0,
-      "included" : false,
-      "validated" : false
+      "included" : true,
+      "validated" : true
     }, null ]
   }, {
     "rank" : 130,
@@ -5881,7 +5945,11 @@
       "value" : 6.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+    }, null, null, null, null, null, null, null, null, null, null, null, {
+      "value" : 6.0,
+      "included" : true,
+      "validated" : true
+    }, null ]
   }, {
     "rank" : 141,
     "fieId" : "34701",
@@ -5898,8 +5966,8 @@
       "validated" : true
     }, null, null, null, null, null, null, null, null, null, null, null, {
       "value" : 6.0,
-      "included" : false,
-      "validated" : false
+      "included" : true,
+      "validated" : true
     }, null ]
   }, {
     "rank" : 141,
@@ -5946,7 +6014,11 @@
       "value" : 0.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, null, null, null, null, null, null ]
+    }, null, null, null, null, null, null, null, {
+      "value" : 6.0,
+      "included" : true,
+      "validated" : true
+    }, null ]
   }, {
     "rank" : 144,
     "fieId" : "30634",
@@ -5985,9 +6057,9 @@
       "included" : true,
       "validated" : true
     }, null, null, null, null, null, null, null, null, null, null, {
-      "value" : 0.0,
-      "included" : false,
-      "validated" : false
+      "value" : 6.0,
+      "included" : true,
+      "validated" : true
     }, null ]
   }, {
     "rank" : 146,
@@ -6036,8 +6108,8 @@
       "validated" : true
     }, null, null, null, null, null, null, null, null, null, null, {
       "value" : 6.0,
-      "included" : false,
-      "validated" : false
+      "included" : true,
+      "validated" : true
     }, null ]
   }, {
     "rank" : 148,
@@ -6071,8 +6143,8 @@
       "validated" : true
     }, {
       "value" : 6.0,
-      "included" : false,
-      "validated" : false
+      "included" : true,
+      "validated" : true
     }, null ]
   }, {
     "rank" : 149,
@@ -6130,7 +6202,11 @@
       "value" : 6.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+    }, null, null, null, null, null, null, null, null, null, null, null, {
+      "value" : 6.0,
+      "included" : true,
+      "validated" : true
+    }, null ]
   }, {
     "rank" : 152,
     "fieId" : "34681",
@@ -6146,9 +6222,9 @@
       "included" : true,
       "validated" : true
     }, null, null, null, null, null, null, null, null, null, null, null, {
-      "value" : 3.0,
-      "included" : false,
-      "validated" : false
+      "value" : 6.0,
+      "included" : true,
+      "validated" : true
     }, null ]
   }, {
     "rank" : 153,
@@ -6179,7 +6255,11 @@
       "value" : 6.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+    }, null, null, null, null, null, null, null, null, null, null, null, {
+      "value" : 6.0,
+      "included" : true,
+      "validated" : true
+    }, null ]
   }, {
     "rank" : 155,
     "fieId" : "1845",
@@ -6229,7 +6309,11 @@
       "value" : 6.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+    }, null, null, null, null, null, null, null, null, null, null, null, {
+      "value" : 6.0,
+      "included" : true,
+      "validated" : true
+    }, null ]
   }, {
     "rank" : 157,
     "fieId" : "18576",
@@ -6400,7 +6484,11 @@
       "value" : 1.5,
       "included" : true,
       "validated" : true
-    }, null, null ]
+    }, {
+      "value" : 3.0,
+      "included" : true,
+      "validated" : true
+    }, null ]
   }, {
     "rank" : 162,
     "fieId" : "29250",
@@ -6624,7 +6712,11 @@
     },
     "country" : "JPN",
     "score" : 5.0,
-    "scores" : [ null, null, null, null, null, null, null, null, {
+    "scores" : [ null, null, null, null, null, null, {
+      "value" : 12.0,
+      "included" : false,
+      "validated" : false
+    }, null, {
       "value" : 1.0,
       "included" : true,
       "validated" : true
@@ -6777,8 +6869,8 @@
       "validated" : true
     }, {
       "value" : 3.0,
-      "included" : false,
-      "validated" : false
+      "included" : true,
+      "validated" : true
     }, null ]
   }, {
     "rank" : 175,
@@ -7148,7 +7240,11 @@
       "value" : 3.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+    }, null, null, null, null, null, null, null, null, null, null, null, {
+      "value" : 3.0,
+      "included" : true,
+      "validated" : true
+    }, null ]
   }, {
     "rank" : 185,
     "fieId" : "31355",
@@ -7209,7 +7305,11 @@
       "value" : 3.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+    }, null, null, null, null, null, null, null, null, null, null, null, {
+      "value" : 3.0,
+      "included" : true,
+      "validated" : true
+    }, null ]
   }, {
     "rank" : 189,
     "fieId" : "38003",
@@ -7257,8 +7357,8 @@
       "validated" : true
     }, {
       "value" : 3.0,
-      "included" : false,
-      "validated" : false
+      "included" : true,
+      "validated" : true
     }, null ]
   }, {
     "rank" : 191,
@@ -7304,7 +7404,11 @@
       "value" : 3.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+    }, null, null, null, null, null, null, null, null, null, null, null, {
+      "value" : 3.0,
+      "included" : true,
+      "validated" : true
+    }, null ]
   }, {
     "rank" : 194,
     "fieId" : "25216",
@@ -7327,7 +7431,11 @@
       "value" : 0.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, null, null, null, null, null, null ]
+    }, null, null, null, null, null, null, null, {
+      "value" : 3.0,
+      "included" : true,
+      "validated" : true
+    }, null ]
   }, {
     "rank" : 195,
     "fieId" : "24989",
@@ -7441,7 +7549,11 @@
       "value" : 3.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+    }, null, null, null, null, null, null, null, null, null, null, null, {
+      "value" : 3.0,
+      "included" : true,
+      "validated" : true
+    }, null ]
   }, {
     "rank" : 201,
     "fieId" : "23435",
@@ -7473,8 +7585,8 @@
       "validated" : true
     }, null, null, null, null, null, null, null, null, null, null, null, {
       "value" : 3.0,
-      "included" : false,
-      "validated" : false
+      "included" : true,
+      "validated" : true
     }, null ]
   }, {
     "rank" : 203,
@@ -7495,9 +7607,9 @@
       "included" : true,
       "validated" : true
     }, null, null, {
-      "value" : 12.0,
-      "included" : false,
-      "validated" : false
+      "value" : 3.0,
+      "included" : true,
+      "validated" : true
     }, null ]
   }, {
     "rank" : 204,
@@ -7517,7 +7629,11 @@
       "value" : 0.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null ]
+    }, null, null, null, null, null, null, null, null, null, null, {
+      "value" : 3.0,
+      "included" : true,
+      "validated" : true
+    }, null ]
   }, {
     "rank" : 205,
     "fieId" : "38268",
@@ -7532,7 +7648,11 @@
       "value" : 3.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+    }, null, null, null, null, null, null, null, null, null, null, null, {
+      "value" : 3.0,
+      "included" : true,
+      "validated" : true
+    }, null ]
   }, {
     "rank" : 206,
     "fieId" : "20781",
@@ -7559,7 +7679,11 @@
       "value" : 0.0,
       "included" : true,
       "validated" : true
-    }, null, null ]
+    }, {
+      "value" : 3.0,
+      "included" : true,
+      "validated" : true
+    }, null ]
   }, {
     "rank" : 207,
     "fieId" : "17550",
@@ -7597,7 +7721,11 @@
       "value" : 0.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, null, null, null, null ]
+    }, null, null, null, null, null, {
+      "value" : 3.0,
+      "included" : true,
+      "validated" : true
+    }, null ]
   }, {
     "rank" : 209,
     "fieId" : "28801",
@@ -7673,7 +7801,11 @@
     },
     "country" : "JPN",
     "score" : 2.5,
-    "scores" : [ null, null, null, null, null, null, null, null, {
+    "scores" : [ null, null, null, null, null, null, {
+      "value" : 12.0,
+      "included" : false,
+      "validated" : false
+    }, null, {
       "value" : 1.0,
       "included" : true,
       "validated" : true
@@ -8195,7 +8327,11 @@
     },
     "country" : "CHN",
     "score" : 1.5,
-    "scores" : [ null, null, null, null, null, null, null, null, null, null, null, null, {
+    "scores" : [ null, null, null, null, null, null, {
+      "value" : 6.0,
+      "included" : false,
+      "validated" : false
+    }, null, null, null, null, null, {
       "value" : 1.5,
       "included" : true,
       "validated" : true
@@ -8972,7 +9108,11 @@
     },
     "country" : "EGY",
     "score" : 1.0,
-    "scores" : [ null, null, null, null, null, null, null, {
+    "scores" : [ null, null, null, null, null, {
+      "value" : 48.0,
+      "included" : false,
+      "validated" : false
+    }, null, {
       "value" : 0.0,
       "included" : true,
       "validated" : true
@@ -9601,9 +9741,9 @@
       "included" : true,
       "validated" : true
     }, null, null, null, null, null, null, null, null, null, null, null, null, null, {
-      "value" : 6.0,
-      "included" : false,
-      "validated" : false
+      "value" : 0.0,
+      "included" : true,
+      "validated" : true
     } ]
   }, {
     "rank" : 294,
@@ -9642,7 +9782,11 @@
       "value" : 0.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null ]
+    }, null, null, null, null, null, null, null, null, null, null, null, {
+      "value" : 0.0,
+      "included" : true,
+      "validated" : true
+    } ]
   }, {
     "rank" : 296,
     "fieId" : "10068",
@@ -9717,7 +9861,11 @@
       "value" : 0.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+    }, null, null, null, null, null, null, null, null, null, null, null, null, null, {
+      "value" : 0.0,
+      "included" : true,
+      "validated" : true
+    } ]
   }, {
     "rank" : 301,
     "fieId" : "24377",
@@ -9774,7 +9922,11 @@
       "value" : 0.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+    }, null, null, null, null, null, null, null, null, null, null, null, null, null, {
+      "value" : 0.0,
+      "included" : true,
+      "validated" : true
+    } ]
   }, {
     "rank" : 304,
     "fieId" : "26910",
@@ -10657,7 +10809,11 @@
     },
     "country" : "KSA",
     "score" : 0.0,
-    "scores" : [ null, null, null, null, null, null, null, null, null, {
+    "scores" : [ null, null, null, null, null, null, {
+      "value" : 3.0,
+      "included" : false,
+      "validated" : false
+    }, null, null, {
       "value" : 0.0,
       "included" : true,
       "validated" : true
@@ -11080,7 +11236,11 @@
     },
     "country" : "KSA",
     "score" : 0.0,
-    "scores" : [ null, null, null, null, null, null, null, null, null, {
+    "scores" : [ null, null, null, null, null, null, {
+      "value" : 6.0,
+      "included" : false,
+      "validated" : false
+    }, null, null, {
       "value" : 0.0,
       "included" : true,
       "validated" : true
@@ -11244,9 +11404,9 @@
       "included" : true,
       "validated" : true
     }, null, null, null, null, null, null, null, null, null, null, {
-      "value" : 6.0,
-      "included" : false,
-      "validated" : false
+      "value" : 0.0,
+      "included" : true,
+      "validated" : true
     }, null ]
   }, {
     "rank" : 379,
@@ -11337,7 +11497,11 @@
       "value" : 0.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+    }, null, null, null, null, null, null, null, null, null, null, null, {
+      "value" : 0.0,
+      "included" : true,
+      "validated" : true
+    }, null ]
   }, {
     "rank" : 382,
     "fieId" : "36963",
@@ -11416,7 +11580,11 @@
       "value" : 0.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+    }, null, null, null, null, null, null, null, null, null, null, null, {
+      "value" : 0.0,
+      "included" : true,
+      "validated" : true
+    }, null ]
   }, {
     "rank" : 387,
     "fieId" : "39604",
@@ -11504,7 +11672,11 @@
       "value" : 0.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+    }, null, null, null, null, null, null, null, null, null, null, null, {
+      "value" : 0.0,
+      "included" : true,
+      "validated" : true
+    }, null ]
   }, {
     "rank" : 393,
     "fieId" : "36992",
@@ -11584,9 +11756,9 @@
       "included" : true,
       "validated" : true
     }, null, null, null, null, null, null, null, null, null, null, null, {
-      "value" : 3.0,
-      "included" : false,
-      "validated" : false
+      "value" : 0.0,
+      "included" : true,
+      "validated" : true
     }, null ]
   }, {
     "rank" : 399,
@@ -11636,7 +11808,11 @@
       "value" : 0.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null ]
+    }, null, null, null, null, null, null, null, null, null, null, {
+      "value" : 0.0,
+      "included" : true,
+      "validated" : true
+    }, null ]
   }, {
     "rank" : 402,
     "fieId" : "32505",
@@ -11711,7 +11887,11 @@
       "value" : 0.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+    }, null, null, null, null, null, null, null, null, null, null, null, {
+      "value" : 0.0,
+      "included" : true,
+      "validated" : true
+    }, null ]
   }, {
     "rank" : 406,
     "fieId" : "38688",
@@ -11802,9 +11982,9 @@
       "included" : true,
       "validated" : true
     }, null, null, null, null, null, null, null, null, null, null, null, {
-      "value" : 6.0,
-      "included" : false,
-      "validated" : false
+      "value" : 0.0,
+      "included" : true,
+      "validated" : true
     }, null ]
   }, {
     "rank" : 410,
@@ -11874,9 +12054,9 @@
       "included" : true,
       "validated" : true
     }, {
-      "value" : 3.0,
-      "included" : false,
-      "validated" : false
+      "value" : 0.0,
+      "included" : true,
+      "validated" : true
     }, null ]
   }, {
     "rank" : 417,
@@ -11892,7 +12072,11 @@
       "value" : 0.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+    }, null, null, null, null, null, null, null, null, null, null, null, {
+      "value" : 0.0,
+      "included" : true,
+      "validated" : true
+    }, null ]
   }, {
     "rank" : 417,
     "fieId" : "38241",
@@ -11922,7 +12106,11 @@
       "value" : 0.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+    }, null, null, null, null, null, null, null, null, null, null, null, {
+      "value" : 0.0,
+      "included" : true,
+      "validated" : true
+    }, null ]
   }, {
     "rank" : 417,
     "fieId" : "39254",
@@ -12042,7 +12230,11 @@
       "value" : 0.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+    }, null, null, null, null, null, null, null, null, null, null, null, {
+      "value" : 0.0,
+      "included" : true,
+      "validated" : true
+    }, null ]
   }, {
     "rank" : 427,
     "fieId" : "34255",
@@ -12398,7 +12590,11 @@
     },
     "country" : "VIE",
     "score" : 0.0,
-    "scores" : [ null, null, null, null, null, null, null, {
+    "scores" : [ null, null, null, null, null, null, {
+      "value" : 3.0,
+      "included" : false,
+      "validated" : false
+    }, {
       "value" : 0.0,
       "included" : true,
       "validated" : true
@@ -12550,7 +12746,11 @@
     },
     "country" : "HKG",
     "score" : 0.0,
-    "scores" : [ null, null, null, null, null, null, null, null, null, null, null, null, {
+    "scores" : [ null, null, null, null, null, null, {
+      "value" : 6.0,
+      "included" : false,
+      "validated" : false
+    }, null, null, null, null, null, {
       "value" : 0.0,
       "included" : true,
       "validated" : true
@@ -12604,7 +12804,11 @@
     },
     "country" : "UZB",
     "score" : 0.0,
-    "scores" : [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, {
+    "scores" : [ null, null, null, null, null, null, {
+      "value" : 6.0,
+      "included" : false,
+      "validated" : false
+    }, null, null, null, null, null, null, null, null, null, null, {
       "value" : 0.0,
       "included" : true,
       "validated" : true
@@ -12885,7 +13089,11 @@
     },
     "country" : "TPE",
     "score" : 0.0,
-    "scores" : [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, {
+    "scores" : [ null, null, null, null, null, null, {
+      "value" : 6.0,
+      "included" : false,
+      "validated" : false
+    }, null, null, null, null, null, null, null, null, null, null, {
       "value" : 0.0,
       "included" : true,
       "validated" : true
@@ -13158,7 +13366,11 @@
     },
     "country" : "CIV",
     "score" : 0.0,
-    "scores" : [ null, null, null, null, null, null, null, {
+    "scores" : [ null, null, null, null, null, {
+      "value" : 6.0,
+      "included" : false,
+      "validated" : false
+    }, null, {
       "value" : 0.0,
       "included" : true,
       "validated" : true
@@ -14981,7 +15193,11 @@
     },
     "country" : "INA",
     "score" : 0.0,
-    "scores" : [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, {
+    "scores" : [ null, null, null, null, null, null, {
+      "value" : 0.0,
+      "included" : false,
+      "validated" : false
+    }, null, null, null, null, null, null, null, null, null, null, null, {
       "value" : 0.0,
       "included" : false,
       "validated" : false
