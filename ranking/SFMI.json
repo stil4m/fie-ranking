@@ -7643,7 +7643,11 @@
     },
     "country" : "PHI",
     "score" : 3.0,
-    "scores" : [ null, null, {
+    "scores" : [ {
+      "value" : 0.0,
+      "included" : true,
+      "validated" : true
+    }, null, {
       "value" : 0.0,
       "included" : true,
       "validated" : true
@@ -14609,11 +14613,11 @@
     }, null, null, null, null, null, null, null, null, null, null, null, null, null ]
   }, {
     "rank" : 590,
-    "fieId" : "31050",
+    "fieId" : "18070",
     "name" : {
-      "firstName" : "Wilfred Richard",
+      "firstName" : "Wilfred",
       "lastName" : "CURIOSO",
-      "fullName" : "CURIOSO, Wilfred Richard"
+      "fullName" : "CURIOSO, Wilfred"
     },
     "country" : "PHI",
     "score" : 0.0,
@@ -14621,7 +14625,15 @@
       "value" : 0.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+    }, null, {
+      "value" : 0.0,
+      "included" : true,
+      "validated" : true
+    }, null, null, null, null, null, null, null, null, {
+      "value" : 3.0,
+      "included" : true,
+      "validated" : true
+    }, null, null, null, null, null, null ]
   }, {
     "rank" : 590,
     "fieId" : "39487",
