@@ -968,19 +968,19 @@
     }, null ]
   }, {
     "rank" : 27,
-    "fieId" : "6946",
+    "fieId" : "8636",
     "name" : {
       "firstName" : null,
       "lastName" : null,
-      "fullName" : "ALGERIA"
+      "fullName" : "VIETNAM"
     },
-    "country" : "ALG",
+    "country" : "VIE",
     "score" : 40.0,
-    "scores" : [ null, null, null, null, null, {
+    "scores" : [ null, null, null, null, {
       "value" : 40.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, null ]
+    }, null, null, null, null, null ]
   }, {
     "rank" : 27,
     "fieId" : "6938",
@@ -998,19 +998,19 @@
     } ]
   }, {
     "rank" : 27,
-    "fieId" : "8636",
+    "fieId" : "6946",
     "name" : {
       "firstName" : null,
       "lastName" : null,
-      "fullName" : "VIETNAM"
+      "fullName" : "ALGERIA"
     },
-    "country" : "VIE",
+    "country" : "ALG",
     "score" : 40.0,
-    "scores" : [ null, null, null, null, {
+    "scores" : [ null, null, null, null, null, {
       "value" : 40.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, null, null ]
+    }, null, null, null, null ]
   }, {
     "rank" : 30,
     "fieId" : "6929",
@@ -1092,21 +1092,6 @@
     } ]
   }, {
     "rank" : 35,
-    "fieId" : "6943",
-    "name" : {
-      "firstName" : null,
-      "lastName" : null,
-      "fullName" : "PUERTO RICO"
-    },
-    "country" : "PUR",
-    "score" : 26.0,
-    "scores" : [ null, null, null, null, null, null, null, null, null, {
-      "value" : 26.0,
-      "included" : true,
-      "validated" : true
-    } ]
-  }, {
-    "rank" : 35,
     "fieId" : "6916",
     "name" : {
       "firstName" : null,
@@ -1121,17 +1106,17 @@
       "validated" : true
     }, null, null, null, null, null ]
   }, {
-    "rank" : 37,
-    "fieId" : "6934",
+    "rank" : 35,
+    "fieId" : "6943",
     "name" : {
       "firstName" : null,
       "lastName" : null,
-      "fullName" : "EL SALVADOR"
+      "fullName" : "PUERTO RICO"
     },
-    "country" : "ESA",
-    "score" : 25.0,
+    "country" : "PUR",
+    "score" : 26.0,
     "scores" : [ null, null, null, null, null, null, null, null, null, {
-      "value" : 25.0,
+      "value" : 26.0,
       "included" : true,
       "validated" : true
     } ]
@@ -1150,6 +1135,21 @@
       "included" : true,
       "validated" : true
     }, null, null, null, null, null ]
+  }, {
+    "rank" : 37,
+    "fieId" : "6934",
+    "name" : {
+      "firstName" : null,
+      "lastName" : null,
+      "fullName" : "EL SALVADOR"
+    },
+    "country" : "ESA",
+    "score" : 25.0,
+    "scores" : [ null, null, null, null, null, null, null, null, null, {
+      "value" : 25.0,
+      "included" : true,
+      "validated" : true
+    } ]
   }, {
     "rank" : 39,
     "fieId" : "6900",
@@ -1289,5 +1289,16 @@
       "included" : true,
       "validated" : true
     }, null, null, null, null, null, null, null, null, null ]
+  }, {
+    "rank" : 48,
+    "fieId" : "9526",
+    "name" : {
+      "firstName" : null,
+      "lastName" : null,
+      "fullName" : "SIERRA LEONE"
+    },
+    "country" : "SLE",
+    "score" : 0.0,
+    "scores" : [ null, null, null, null, null, null, null, null, null, null ]
   } ]
 }
