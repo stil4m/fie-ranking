@@ -4485,15 +4485,19 @@
     }, null, null, null ]
   }, {
     "rank" : 129,
-    "fieId" : "11242",
+    "fieId" : "18397",
     "name" : {
-      "firstName" : "Byung Yel",
+      "firstName" : "Byungyul",
       "lastName" : "HWANG",
-      "fullName" : "HWANG, Byung Yel"
+      "fullName" : "HWANG, Byungyul"
     },
     "country" : "KOR",
     "score" : 9.0,
-    "scores" : [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, {
+    "scores" : [ {
+      "value" : 1.5,
+      "included" : true,
+      "validated" : true
+    }, null, null, null, null, null, null, null, null, null, null, null, null, null, {
       "value" : 1.0,
       "included" : true,
       "validated" : true
@@ -7471,9 +7475,9 @@
     "rank" : 265,
     "fieId" : "18397",
     "name" : {
-      "firstName" : "Byung Yul",
+      "firstName" : "Byungyul",
       "lastName" : "HWANG",
-      "fullName" : "HWANG, Byung Yul"
+      "fullName" : "HWANG, Byungyul"
     },
     "country" : "KOR",
     "score" : 1.5,
@@ -7481,7 +7485,23 @@
       "value" : 1.5,
       "included" : true,
       "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+    }, null, null, null, null, null, null, null, null, null, null, null, null, null, {
+      "value" : 1.0,
+      "included" : true,
+      "validated" : true
+    }, {
+      "value" : 3.0,
+      "included" : true,
+      "validated" : true
+    }, {
+      "value" : 1.0,
+      "included" : true,
+      "validated" : true
+    }, {
+      "value" : 4.0,
+      "included" : true,
+      "validated" : true
+    }, null ]
   }, {
     "rank" : 266,
     "fieId" : "34636",
