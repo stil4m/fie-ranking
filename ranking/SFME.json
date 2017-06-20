@@ -6,34 +6,6 @@
     "weapon" : "FOIL"
   },
   "tournaments" : [ {
-    "name" : "Wuxi (CHZ)",
-    "date" : {
-      "y" : 2016,
-      "m" : 4,
-      "d" : 13
-    }
-  }, {
-    "name" : "Alger (CHZ)",
-    "date" : {
-      "y" : 2016,
-      "m" : 4,
-      "d" : 15
-    }
-  }, {
-    "name" : "TORUN (CHZ)",
-    "date" : {
-      "y" : 2016,
-      "m" : 6,
-      "d" : 23
-    }
-  }, {
-    "name" : "Panama (CHZ)",
-    "date" : {
-      "y" : 2016,
-      "m" : 6,
-      "d" : 24
-    }
-  }, {
     "name" : "Rio de Janeiro (JO)",
     "date" : {
       "y" : 2016,
@@ -113,12 +85,8 @@
       "fullName" : "FRANCE"
     },
     "country" : "FRA",
-    "score" : 384.0,
-    "scores" : [ null, null, {
-      "value" : 36.0,
-      "included" : true,
-      "validated" : true
-    }, null, {
+    "score" : 412.0,
+    "scores" : [ {
       "value" : 104.0,
       "included" : true,
       "validated" : true
@@ -144,8 +112,8 @@
       "validated" : true
     }, null, {
       "value" : 64.0,
-      "included" : false,
-      "validated" : false
+      "included" : true,
+      "validated" : true
     }, null, null ]
   }, {
     "rank" : 2,
@@ -156,12 +124,8 @@
       "fullName" : "RUSSIA"
     },
     "country" : "RUS",
-    "score" : 380.0,
-    "scores" : [ null, null, {
-      "value" : 64.0,
-      "included" : true,
-      "validated" : true
-    }, null, {
+    "score" : 368.0,
+    "scores" : [ {
       "value" : 128.0,
       "included" : true,
       "validated" : true
@@ -183,8 +147,8 @@
       "validated" : true
     }, null, {
       "value" : 52.0,
-      "included" : false,
-      "validated" : false
+      "included" : true,
+      "validated" : true
     }, null, null ]
   }, {
     "rank" : 3,
@@ -196,11 +160,7 @@
     },
     "country" : "USA",
     "score" : 328.0,
-    "scores" : [ null, null, null, {
-      "value" : 64.0,
-      "included" : true,
-      "validated" : true
-    }, {
+    "scores" : [ {
       "value" : 80.0,
       "included" : true,
       "validated" : true
@@ -226,8 +186,8 @@
       "validated" : true
     }, null, null, {
       "value" : 64.0,
-      "included" : false,
-      "validated" : false
+      "included" : true,
+      "validated" : true
     }, null ]
   }, {
     "rank" : 4,
@@ -238,12 +198,8 @@
       "fullName" : "ITALY"
     },
     "country" : "ITA",
-    "score" : 320.0,
-    "scores" : [ null, null, {
-      "value" : 52.0,
-      "included" : true,
-      "validated" : true
-    }, null, {
+    "score" : 308.0,
+    "scores" : [ {
       "value" : 72.0,
       "included" : true,
       "validated" : true
@@ -269,11 +225,38 @@
       "validated" : true
     }, null, {
       "value" : 40.0,
-      "included" : false,
-      "validated" : false
+      "included" : true,
+      "validated" : true
     }, null, null ]
   }, {
     "rank" : 5,
+    "fieId" : "6879",
+    "name" : {
+      "firstName" : null,
+      "lastName" : null,
+      "fullName" : "CHINA"
+    },
+    "country" : "CHN",
+    "score" : 182.0,
+    "scores" : [ {
+      "value" : 64.0,
+      "included" : true,
+      "validated" : true
+    }, null, null, {
+      "value" : 24.0,
+      "included" : true,
+      "validated" : true
+    }, {
+      "value" : 30.0,
+      "included" : true,
+      "validated" : true
+    }, null, null, null, null, {
+      "value" : 64.0,
+      "included" : true,
+      "validated" : true
+    } ]
+  }, {
+    "rank" : 6,
     "fieId" : "8860",
     "name" : {
       "firstName" : null,
@@ -281,12 +264,8 @@
       "fullName" : "KOREA"
     },
     "country" : "KOR",
-    "score" : 190.0,
-    "scores" : [ {
-      "value" : 64.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, null, null, {
+    "score" : 178.0,
+    "scores" : [ null, {
       "value" : 28.0,
       "included" : false,
       "validated" : true
@@ -308,11 +287,11 @@
       "validated" : true
     }, null, null, null, {
       "value" : 52.0,
-      "included" : false,
-      "validated" : false
+      "included" : true,
+      "validated" : true
     } ]
   }, {
-    "rank" : 6,
+    "rank" : 7,
     "fieId" : "6960",
     "name" : {
       "firstName" : null,
@@ -320,12 +299,8 @@
       "fullName" : "JAPAN"
     },
     "country" : "JPN",
-    "score" : 178.0,
-    "scores" : [ {
-      "value" : 40.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, null, null, {
+    "score" : 174.0,
+    "scores" : [ null, {
       "value" : 36.0,
       "included" : true,
       "validated" : true
@@ -347,39 +322,8 @@
       "validated" : true
     }, null, null, null, {
       "value" : 36.0,
-      "included" : false,
-      "validated" : false
-    } ]
-  }, {
-    "rank" : 7,
-    "fieId" : "6879",
-    "name" : {
-      "firstName" : null,
-      "lastName" : null,
-      "fullName" : "CHINA"
-    },
-    "country" : "CHN",
-    "score" : 170.0,
-    "scores" : [ {
-      "value" : 52.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, {
-      "value" : 64.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, {
-      "value" : 24.0,
-      "included" : true,
-      "validated" : true
-    }, {
-      "value" : 30.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, null, null, {
-      "value" : 64.0,
-      "included" : false,
-      "validated" : false
     } ]
   }, {
     "rank" : 8,
@@ -391,11 +335,7 @@
     },
     "country" : "BRA",
     "score" : 152.0,
-    "scores" : [ null, null, null, {
-      "value" : 52.0,
-      "included" : true,
-      "validated" : true
-    }, {
+    "scores" : [ {
       "value" : 52.0,
       "included" : true,
       "validated" : true
@@ -409,11 +349,139 @@
       "validated" : true
     }, null, null, null, {
       "value" : 52.0,
-      "included" : false,
-      "validated" : false
+      "included" : true,
+      "validated" : true
     }, null ]
   }, {
     "rank" : 9,
+    "fieId" : "6957",
+    "name" : {
+      "firstName" : null,
+      "lastName" : null,
+      "fullName" : "GERMANY"
+    },
+    "country" : "GER",
+    "score" : 149.0,
+    "scores" : [ null, {
+      "value" : 32.0,
+      "included" : true,
+      "validated" : true
+    }, {
+      "value" : 25.0,
+      "included" : true,
+      "validated" : true
+    }, {
+      "value" : 28.0,
+      "included" : true,
+      "validated" : true
+    }, {
+      "value" : 28.0,
+      "included" : true,
+      "validated" : true
+    }, {
+      "value" : 24.0,
+      "included" : false,
+      "validated" : true
+    }, null, {
+      "value" : 36.0,
+      "included" : true,
+      "validated" : true
+    }, null, null ]
+  }, {
+    "rank" : 10,
+    "fieId" : "9593",
+    "name" : {
+      "firstName" : null,
+      "lastName" : null,
+      "fullName" : "EGYPT"
+    },
+    "country" : "EGY",
+    "score" : 146.0,
+    "scores" : [ {
+      "value" : 56.0,
+      "included" : true,
+      "validated" : true
+    }, {
+      "value" : 26.0,
+      "included" : true,
+      "validated" : true
+    }, null, null, null, null, {
+      "value" : 64.0,
+      "included" : true,
+      "validated" : true
+    }, null, null, null ]
+  }, {
+    "rank" : 11,
+    "fieId" : "6888",
+    "name" : {
+      "firstName" : null,
+      "lastName" : null,
+      "fullName" : "HONG KONG"
+    },
+    "country" : "HKG",
+    "score" : 140.0,
+    "scores" : [ null, {
+      "value" : 24.0,
+      "included" : true,
+      "validated" : true
+    }, {
+      "value" : 26.0,
+      "included" : true,
+      "validated" : true
+    }, {
+      "value" : 25.0,
+      "included" : true,
+      "validated" : true
+    }, {
+      "value" : 20.0,
+      "included" : false,
+      "validated" : true
+    }, {
+      "value" : 25.0,
+      "included" : true,
+      "validated" : true
+    }, null, null, null, {
+      "value" : 40.0,
+      "included" : true,
+      "validated" : true
+    } ]
+  }, {
+    "rank" : 12,
+    "fieId" : "6979",
+    "name" : {
+      "firstName" : null,
+      "lastName" : null,
+      "fullName" : "UKRAINE"
+    },
+    "country" : "UKR",
+    "score" : 140.0,
+    "scores" : [ null, {
+      "value" : 30.0,
+      "included" : true,
+      "validated" : true
+    }, {
+      "value" : 30.0,
+      "included" : true,
+      "validated" : true
+    }, {
+      "value" : 21.0,
+      "included" : false,
+      "validated" : true
+    }, {
+      "value" : 22.0,
+      "included" : true,
+      "validated" : true
+    }, {
+      "value" : 28.0,
+      "included" : true,
+      "validated" : true
+    }, null, {
+      "value" : 30.0,
+      "included" : true,
+      "validated" : true
+    }, null, null ]
+  }, {
+    "rank" : 13,
     "fieId" : "6886",
     "name" : {
       "firstName" : null,
@@ -421,12 +489,8 @@
       "fullName" : "GREAT BRITAIN"
     },
     "country" : "GBR",
-    "score" : 147.0,
-    "scores" : [ null, null, {
-      "value" : 40.0,
-      "included" : true,
-      "validated" : true
-    }, null, {
+    "score" : 135.0,
+    "scores" : [ {
       "value" : 60.0,
       "included" : true,
       "validated" : true
@@ -440,153 +504,9 @@
       "validated" : true
     }, null, null, {
       "value" : 28.0,
-      "included" : false,
-      "validated" : false
+      "included" : true,
+      "validated" : true
     }, null, null ]
-  }, {
-    "rank" : 10,
-    "fieId" : "9593",
-    "name" : {
-      "firstName" : null,
-      "lastName" : null,
-      "fullName" : "EGYPT"
-    },
-    "country" : "EGY",
-    "score" : 146.0,
-    "scores" : [ null, {
-      "value" : 64.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, {
-      "value" : 56.0,
-      "included" : true,
-      "validated" : true
-    }, {
-      "value" : 26.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, null, null, {
-      "value" : 64.0,
-      "included" : false,
-      "validated" : false
-    }, null, null, null ]
-  }, {
-    "rank" : 11,
-    "fieId" : "6957",
-    "name" : {
-      "firstName" : null,
-      "lastName" : null,
-      "fullName" : "GERMANY"
-    },
-    "country" : "GER",
-    "score" : 145.0,
-    "scores" : [ null, null, {
-      "value" : 32.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, {
-      "value" : 32.0,
-      "included" : true,
-      "validated" : true
-    }, {
-      "value" : 25.0,
-      "included" : true,
-      "validated" : true
-    }, {
-      "value" : 28.0,
-      "included" : true,
-      "validated" : true
-    }, {
-      "value" : 28.0,
-      "included" : true,
-      "validated" : true
-    }, {
-      "value" : 24.0,
-      "included" : false,
-      "validated" : true
-    }, null, {
-      "value" : 36.0,
-      "included" : false,
-      "validated" : false
-    }, null, null ]
-  }, {
-    "rank" : 12,
-    "fieId" : "6979",
-    "name" : {
-      "firstName" : null,
-      "lastName" : null,
-      "fullName" : "UKRAINE"
-    },
-    "country" : "UKR",
-    "score" : 138.0,
-    "scores" : [ null, null, {
-      "value" : 28.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, {
-      "value" : 30.0,
-      "included" : true,
-      "validated" : true
-    }, {
-      "value" : 30.0,
-      "included" : true,
-      "validated" : true
-    }, {
-      "value" : 21.0,
-      "included" : false,
-      "validated" : true
-    }, {
-      "value" : 22.0,
-      "included" : true,
-      "validated" : true
-    }, {
-      "value" : 28.0,
-      "included" : true,
-      "validated" : true
-    }, null, {
-      "value" : 30.0,
-      "included" : false,
-      "validated" : false
-    }, null, null ]
-  }, {
-    "rank" : 13,
-    "fieId" : "6888",
-    "name" : {
-      "firstName" : null,
-      "lastName" : null,
-      "fullName" : "HONG KONG"
-    },
-    "country" : "HKG",
-    "score" : 136.0,
-    "scores" : [ {
-      "value" : 36.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, null, null, {
-      "value" : 24.0,
-      "included" : true,
-      "validated" : true
-    }, {
-      "value" : 26.0,
-      "included" : true,
-      "validated" : true
-    }, {
-      "value" : 25.0,
-      "included" : true,
-      "validated" : true
-    }, {
-      "value" : 20.0,
-      "included" : false,
-      "validated" : true
-    }, {
-      "value" : 25.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, null, {
-      "value" : 40.0,
-      "included" : false,
-      "validated" : false
-    } ]
   }, {
     "rank" : 14,
     "fieId" : "6971",
@@ -596,12 +516,8 @@
       "fullName" : "POLAND"
     },
     "country" : "POL",
-    "score" : 131.0,
-    "scores" : [ null, null, {
-      "value" : 30.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, {
+    "score" : 133.0,
+    "scores" : [ null, {
       "value" : 25.0,
       "included" : true,
       "validated" : true
@@ -623,8 +539,8 @@
       "validated" : true
     }, null, {
       "value" : 32.0,
-      "included" : false,
-      "validated" : false
+      "included" : true,
+      "validated" : true
     }, null, null ]
   }, {
     "rank" : 15,
@@ -635,12 +551,8 @@
       "fullName" : "HUNGARY"
     },
     "country" : "HUN",
-    "score" : 95.0,
-    "scores" : [ null, null, {
-      "value" : 26.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, {
+    "score" : 93.0,
+    "scores" : [ null, {
       "value" : 21.0,
       "included" : true,
       "validated" : true
@@ -658,8 +570,8 @@
       "validated" : true
     }, null, {
       "value" : 24.0,
-      "included" : false,
-      "validated" : false
+      "included" : true,
+      "validated" : true
     }, null, null ]
   }, {
     "rank" : 16,
@@ -671,11 +583,7 @@
     },
     "country" : "BLR",
     "score" : 88.0,
-    "scores" : [ null, null, {
-      "value" : 25.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, {
+    "scores" : [ null, {
       "value" : 22.0,
       "included" : true,
       "validated" : true
@@ -689,8 +597,8 @@
       "validated" : true
     }, null, {
       "value" : 25.0,
-      "included" : false,
-      "validated" : false
+      "included" : true,
+      "validated" : true
     }, null, null ]
   }, {
     "rank" : 17,
@@ -702,11 +610,7 @@
     },
     "country" : "AUS",
     "score" : 85.0,
-    "scores" : [ {
-      "value" : 32.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, null, null, null, {
+    "scores" : [ null, null, {
       "value" : 23.0,
       "included" : true,
       "validated" : true
@@ -720,38 +624,11 @@
       "validated" : true
     }, null, null, null, {
       "value" : 32.0,
-      "included" : false,
-      "validated" : false
+      "included" : true,
+      "validated" : true
     } ]
   }, {
     "rank" : 18,
-    "fieId" : "6878",
-    "name" : {
-      "firstName" : null,
-      "lastName" : null,
-      "fullName" : "CANADA"
-    },
-    "country" : "CAN",
-    "score" : 77.0,
-    "scores" : [ null, null, null, {
-      "value" : 40.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, null, {
-      "value" : 19.0,
-      "included" : true,
-      "validated" : true
-    }, {
-      "value" : 18.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, null, {
-      "value" : 32.0,
-      "included" : false,
-      "validated" : false
-    }, null ]
-  }, {
-    "rank" : 19,
     "fieId" : "6923",
     "name" : {
       "firstName" : null,
@@ -759,12 +636,8 @@
       "fullName" : "TURKEY"
     },
     "country" : "TUR",
-    "score" : 72.0,
-    "scores" : [ null, null, {
-      "value" : 24.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, null, null, {
+    "score" : 74.0,
+    "scores" : [ null, null, null, {
       "value" : 20.0,
       "included" : true,
       "validated" : true
@@ -778,11 +651,11 @@
       "validated" : true
     }, null, {
       "value" : 26.0,
-      "included" : false,
-      "validated" : false
+      "included" : true,
+      "validated" : true
     }, null, null ]
   }, {
-    "rank" : 20,
+    "rank" : 19,
     "fieId" : "8445",
     "name" : {
       "firstName" : null,
@@ -791,7 +664,7 @@
     },
     "country" : "AUT",
     "score" : 71.0,
-    "scores" : [ null, null, null, null, null, {
+    "scores" : [ null, {
       "value" : 23.0,
       "included" : true,
       "validated" : true
@@ -809,6 +682,29 @@
       "validated" : true
     }, null, null, null, null ]
   }, {
+    "rank" : 20,
+    "fieId" : "6878",
+    "name" : {
+      "firstName" : null,
+      "lastName" : null,
+      "fullName" : "CANADA"
+    },
+    "country" : "CAN",
+    "score" : 69.0,
+    "scores" : [ null, null, null, {
+      "value" : 19.0,
+      "included" : true,
+      "validated" : true
+    }, {
+      "value" : 18.0,
+      "included" : true,
+      "validated" : true
+    }, null, null, null, {
+      "value" : 32.0,
+      "included" : true,
+      "validated" : true
+    }, null ]
+  }, {
     "rank" : 21,
     "fieId" : "6919",
     "name" : {
@@ -817,12 +713,8 @@
       "fullName" : "SWEDEN"
     },
     "country" : "SWE",
-    "score" : 55.0,
-    "scores" : [ null, null, {
-      "value" : 21.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, null, null, {
+    "score" : 53.0,
+    "scores" : [ null, null, null, {
       "value" : 8.0,
       "included" : true,
       "validated" : true
@@ -836,8 +728,8 @@
       "validated" : true
     }, null, {
       "value" : 19.0,
-      "included" : false,
-      "validated" : false
+      "included" : true,
+      "validated" : true
     }, null, null ]
   }, {
     "rank" : 22,
@@ -849,36 +741,66 @@
     },
     "country" : "TUN",
     "score" : 52.0,
-    "scores" : [ null, {
+    "scores" : [ null, null, null, null, null, null, {
       "value" : 52.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, null, null, null, null, null, {
-      "value" : 52.0,
-      "included" : false,
-      "validated" : false
     }, null, null, null ]
   }, {
     "rank" : 23,
-    "fieId" : "6946",
+    "fieId" : "6914",
     "name" : {
       "firstName" : null,
       "lastName" : null,
-      "fullName" : "ALGERIA"
+      "fullName" : "SOUTH AFRICA"
     },
-    "country" : "ALG",
-    "score" : 48.0,
-    "scores" : [ null, {
+    "country" : "RSA",
+    "score" : 40.0,
+    "scores" : [ null, null, null, null, null, null, {
       "value" : 40.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, null, null, {
+    }, null, null, null ]
+  }, {
+    "rank" : 23,
+    "fieId" : "6938",
+    "name" : {
+      "firstName" : null,
+      "lastName" : null,
+      "fullName" : "MEXICO"
+    },
+    "country" : "MEX",
+    "score" : 40.0,
+    "scores" : [ null, null, null, null, null, null, null, null, {
+      "value" : 40.0,
+      "included" : true,
+      "validated" : true
+    }, null ]
+  }, {
+    "rank" : 25,
+    "fieId" : "6882",
+    "name" : {
+      "firstName" : null,
+      "lastName" : null,
+      "fullName" : "DENMARK"
+    },
+    "country" : "DEN",
+    "score" : 39.0,
+    "scores" : [ null, null, null, {
       "value" : 8.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, null, null, null ]
+    }, {
+      "value" : 8.0,
+      "included" : true,
+      "validated" : true
+    }, null, null, {
+      "value" : 23.0,
+      "included" : true,
+      "validated" : true
+    }, null, null ]
   }, {
-    "rank" : 24,
+    "rank" : 26,
     "fieId" : "6926",
     "name" : {
       "firstName" : null,
@@ -886,22 +808,266 @@
       "fullName" : "ARGENTINA"
     },
     "country" : "ARG",
-    "score" : 40.0,
-    "scores" : [ null, null, null, {
-      "value" : 32.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, null, null, {
+    "score" : 38.0,
+    "scores" : [ null, null, null, null, {
       "value" : 8.0,
       "included" : true,
       "validated" : true
     }, null, null, null, {
       "value" : 30.0,
-      "included" : false,
-      "validated" : false
+      "included" : true,
+      "validated" : true
     }, null ]
   }, {
-    "rank" : 25,
+    "rank" : 27,
+    "fieId" : "6949",
+    "name" : {
+      "firstName" : null,
+      "lastName" : null,
+      "fullName" : "BELGIUM"
+    },
+    "country" : "BEL",
+    "score" : 38.0,
+    "scores" : [ null, null, null, {
+      "value" : 8.0,
+      "included" : true,
+      "validated" : true
+    }, {
+      "value" : 8.0,
+      "included" : true,
+      "validated" : true
+    }, null, null, {
+      "value" : 22.0,
+      "included" : true,
+      "validated" : true
+    }, null, null ]
+  }, {
+    "rank" : 28,
+    "fieId" : "6943",
+    "name" : {
+      "firstName" : null,
+      "lastName" : null,
+      "fullName" : "PUERTO RICO"
+    },
+    "country" : "PUR",
+    "score" : 36.0,
+    "scores" : [ null, null, null, null, null, null, null, null, {
+      "value" : 36.0,
+      "included" : true,
+      "validated" : true
+    }, null ]
+  }, {
+    "rank" : 29,
+    "fieId" : "6916",
+    "name" : {
+      "firstName" : null,
+      "lastName" : null,
+      "fullName" : "SINGAPORE"
+    },
+    "country" : "SIN",
+    "score" : 30.0,
+    "scores" : [ null, null, null, null, null, null, null, null, null, {
+      "value" : 30.0,
+      "included" : true,
+      "validated" : true
+    } ]
+  }, {
+    "rank" : 30,
+    "fieId" : "6945",
+    "name" : {
+      "firstName" : null,
+      "lastName" : null,
+      "fullName" : "VENEZUELA"
+    },
+    "country" : "VEN",
+    "score" : 28.0,
+    "scores" : [ null, null, null, null, null, null, null, null, {
+      "value" : 28.0,
+      "included" : true,
+      "validated" : true
+    }, null ]
+  }, {
+    "rank" : 30,
+    "fieId" : "8636",
+    "name" : {
+      "firstName" : null,
+      "lastName" : null,
+      "fullName" : "VIETNAM"
+    },
+    "country" : "VIE",
+    "score" : 28.0,
+    "scores" : [ null, null, null, null, null, null, null, null, null, {
+      "value" : 28.0,
+      "included" : true,
+      "validated" : true
+    } ]
+  }, {
+    "rank" : 32,
+    "fieId" : "6911",
+    "name" : {
+      "firstName" : null,
+      "lastName" : null,
+      "fullName" : "PHILIPPINES"
+    },
+    "country" : "PHI",
+    "score" : 26.0,
+    "scores" : [ null, null, null, null, null, null, null, null, null, {
+      "value" : 26.0,
+      "included" : true,
+      "validated" : true
+    } ]
+  }, {
+    "rank" : 32,
+    "fieId" : "6929",
+    "name" : {
+      "firstName" : null,
+      "lastName" : null,
+      "fullName" : "COLOMBIA"
+    },
+    "country" : "COL",
+    "score" : 26.0,
+    "scores" : [ null, null, null, null, null, null, null, null, {
+      "value" : 26.0,
+      "included" : true,
+      "validated" : true
+    }, null ]
+  }, {
+    "rank" : 34,
+    "fieId" : "6928",
+    "name" : {
+      "firstName" : null,
+      "lastName" : null,
+      "fullName" : "CHILE"
+    },
+    "country" : "CHI",
+    "score" : 25.0,
+    "scores" : [ null, null, null, null, null, null, null, null, {
+      "value" : 25.0,
+      "included" : true,
+      "validated" : true
+    }, null ]
+  }, {
+    "rank" : 34,
+    "fieId" : "6922",
+    "name" : {
+      "firstName" : null,
+      "lastName" : null,
+      "fullName" : "CHINESE TAIPEI"
+    },
+    "country" : "TPE",
+    "score" : 25.0,
+    "scores" : [ null, null, null, null, null, null, null, null, null, {
+      "value" : 25.0,
+      "included" : true,
+      "validated" : true
+    } ]
+  }, {
+    "rank" : 36,
+    "fieId" : "6920",
+    "name" : {
+      "firstName" : null,
+      "lastName" : null,
+      "fullName" : "THAILAND"
+    },
+    "country" : "THA",
+    "score" : 24.0,
+    "scores" : [ null, null, null, null, null, null, null, null, null, {
+      "value" : 24.0,
+      "included" : true,
+      "validated" : true
+    } ]
+  }, {
+    "rank" : 37,
+    "fieId" : "6925",
+    "name" : {
+      "firstName" : null,
+      "lastName" : null,
+      "fullName" : "UZBEKISTAN"
+    },
+    "country" : "UZB",
+    "score" : 23.0,
+    "scores" : [ null, null, null, null, null, null, null, null, null, {
+      "value" : 23.0,
+      "included" : true,
+      "validated" : true
+    } ]
+  }, {
+    "rank" : 38,
+    "fieId" : "6910",
+    "name" : {
+      "firstName" : null,
+      "lastName" : null,
+      "fullName" : "NEW ZEALAND"
+    },
+    "country" : "NZL",
+    "score" : 22.0,
+    "scores" : [ null, null, null, null, null, null, null, null, null, {
+      "value" : 22.0,
+      "included" : true,
+      "validated" : true
+    } ]
+  }, {
+    "rank" : 39,
+    "fieId" : "6890",
+    "name" : {
+      "firstName" : null,
+      "lastName" : null,
+      "fullName" : "INDIA"
+    },
+    "country" : "IND",
+    "score" : 21.0,
+    "scores" : [ null, null, null, null, null, null, null, null, null, {
+      "value" : 21.0,
+      "included" : true,
+      "validated" : true
+    } ]
+  }, {
+    "rank" : 39,
+    "fieId" : "6956",
+    "name" : {
+      "firstName" : null,
+      "lastName" : null,
+      "fullName" : "GEORGIA"
+    },
+    "country" : "GEO",
+    "score" : 21.0,
+    "scores" : [ null, null, null, null, null, null, null, {
+      "value" : 21.0,
+      "included" : true,
+      "validated" : true
+    }, null, null ]
+  }, {
+    "rank" : 41,
+    "fieId" : "6895",
+    "name" : {
+      "firstName" : null,
+      "lastName" : null,
+      "fullName" : "ISRAEL"
+    },
+    "country" : "ISR",
+    "score" : 20.0,
+    "scores" : [ null, null, null, null, null, null, null, {
+      "value" : 20.0,
+      "included" : true,
+      "validated" : true
+    }, null, null ]
+  }, {
+    "rank" : 41,
+    "fieId" : "11562",
+    "name" : {
+      "firstName" : null,
+      "lastName" : null,
+      "fullName" : "MACAO"
+    },
+    "country" : "MAC",
+    "score" : 20.0,
+    "scores" : [ null, null, null, null, null, null, null, null, null, {
+      "value" : 20.0,
+      "included" : true,
+      "validated" : true
+    } ]
+  }, {
+    "rank" : 43,
     "fieId" : "6969",
     "name" : {
       "firstName" : null,
@@ -909,12 +1075,8 @@
       "fullName" : "NETHERLANDS"
     },
     "country" : "NED",
-    "score" : 39.0,
-    "scores" : [ null, null, {
-      "value" : 23.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, null, null, {
+    "score" : 16.0,
+    "scores" : [ null, null, null, {
       "value" : 8.0,
       "included" : true,
       "validated" : true
@@ -924,417 +1086,19 @@
       "validated" : true
     }, null, null, null, null, null ]
   }, {
-    "rank" : 26,
-    "fieId" : "6975",
-    "name" : {
-      "firstName" : null,
-      "lastName" : null,
-      "fullName" : "SENEGAL"
-    },
-    "country" : "SEN",
-    "score" : 36.0,
-    "scores" : [ null, {
-      "value" : 36.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null ]
-  }, {
-    "rank" : 26,
-    "fieId" : "6938",
-    "name" : {
-      "firstName" : null,
-      "lastName" : null,
-      "fullName" : "MEXICO"
-    },
-    "country" : "MEX",
-    "score" : 36.0,
-    "scores" : [ null, null, null, {
-      "value" : 36.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, null, null, null, null, null, null, {
-      "value" : 40.0,
-      "included" : false,
-      "validated" : false
-    }, null ]
-  }, {
-    "rank" : 28,
-    "fieId" : "6914",
-    "name" : {
-      "firstName" : null,
-      "lastName" : null,
-      "fullName" : "SOUTH AFRICA"
-    },
-    "country" : "RSA",
-    "score" : 32.0,
-    "scores" : [ null, {
-      "value" : 32.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, null, null, null, null, null, null, {
-      "value" : 40.0,
-      "included" : false,
-      "validated" : false
-    }, null, null, null ]
-  }, {
-    "rank" : 29,
-    "fieId" : "32243",
-    "name" : {
-      "firstName" : null,
-      "lastName" : null,
-      "fullName" : "GHANA"
-    },
-    "country" : "GHA",
-    "score" : 30.0,
-    "scores" : [ null, {
-      "value" : 30.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null ]
-  }, {
-    "rank" : 29,
-    "fieId" : "6891",
-    "name" : {
-      "firstName" : null,
-      "lastName" : null,
-      "fullName" : "IRAN"
-    },
-    "country" : "IRI",
-    "score" : 30.0,
-    "scores" : [ {
-      "value" : 30.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null, null ]
-  }, {
-    "rank" : 29,
-    "fieId" : "6943",
-    "name" : {
-      "firstName" : null,
-      "lastName" : null,
-      "fullName" : "PUERTO RICO"
-    },
-    "country" : "PUR",
-    "score" : 30.0,
-    "scores" : [ null, null, null, {
-      "value" : 30.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, null, null, null, null, null, null, {
-      "value" : 36.0,
-      "included" : false,
-      "validated" : false
-    }, null ]
-  }, {
-    "rank" : 32,
-    "fieId" : "6945",
-    "name" : {
-      "firstName" : null,
-      "lastName" : null,
-      "fullName" : "VENEZUELA"
-    },
-    "country" : "VEN",
-    "score" : 28.0,
-    "scores" : [ null, null, null, {
-      "value" : 28.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, null, null, null, null, null, null, {
-      "value" : 28.0,
-      "included" : false,
-      "validated" : false
-    }, null ]
-  }, {
-    "rank" : 32,
-    "fieId" : "6916",
-    "name" : {
-      "firstName" : null,
-      "lastName" : null,
-      "fullName" : "SINGAPORE"
-    },
-    "country" : "SIN",
-    "score" : 28.0,
-    "scores" : [ {
-      "value" : 28.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null, {
-      "value" : 30.0,
-      "included" : false,
-      "validated" : false
-    } ]
-  }, {
-    "rank" : 34,
-    "fieId" : "6929",
-    "name" : {
-      "firstName" : null,
-      "lastName" : null,
-      "fullName" : "COLOMBIA"
-    },
-    "country" : "COL",
-    "score" : 26.0,
-    "scores" : [ null, null, null, {
-      "value" : 26.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, null, null, null, null, null, null, {
-      "value" : 26.0,
-      "included" : false,
-      "validated" : false
-    }, null ]
-  }, {
-    "rank" : 34,
-    "fieId" : "6889",
-    "name" : {
-      "firstName" : null,
-      "lastName" : null,
-      "fullName" : "INDONESIA"
-    },
-    "country" : "INA",
-    "score" : 26.0,
-    "scores" : [ {
-      "value" : 26.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null, null ]
-  }, {
-    "rank" : 36,
-    "fieId" : "6911",
-    "name" : {
-      "firstName" : null,
-      "lastName" : null,
-      "fullName" : "PHILIPPINES"
-    },
-    "country" : "PHI",
-    "score" : 25.0,
-    "scores" : [ {
-      "value" : 25.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null, {
-      "value" : 26.0,
-      "included" : false,
-      "validated" : false
-    } ]
-  }, {
-    "rank" : 36,
-    "fieId" : "6928",
-    "name" : {
-      "firstName" : null,
-      "lastName" : null,
-      "fullName" : "CHILE"
-    },
-    "country" : "CHI",
-    "score" : 25.0,
-    "scores" : [ null, null, null, {
-      "value" : 25.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, null, null, null, null, null, null, {
-      "value" : 25.0,
-      "included" : false,
-      "validated" : false
-    }, null ]
-  }, {
-    "rank" : 38,
-    "fieId" : "6936",
-    "name" : {
-      "firstName" : null,
-      "lastName" : null,
-      "fullName" : "GUATEMALA"
-    },
-    "country" : "GUA",
-    "score" : 24.0,
-    "scores" : [ null, null, null, {
-      "value" : 24.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null ]
-  }, {
-    "rank" : 38,
-    "fieId" : "6925",
-    "name" : {
-      "firstName" : null,
-      "lastName" : null,
-      "fullName" : "UZBEKISTAN"
-    },
-    "country" : "UZB",
-    "score" : 24.0,
-    "scores" : [ {
-      "value" : 24.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null, {
-      "value" : 23.0,
-      "included" : false,
-      "validated" : false
-    } ]
-  }, {
-    "rank" : 40,
-    "fieId" : "8636",
-    "name" : {
-      "firstName" : null,
-      "lastName" : null,
-      "fullName" : "VIETNAM"
-    },
-    "country" : "VIE",
-    "score" : 23.0,
-    "scores" : [ {
-      "value" : 23.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null, {
-      "value" : 28.0,
-      "included" : false,
-      "validated" : false
-    } ]
-  }, {
-    "rank" : 40,
-    "fieId" : "6934",
-    "name" : {
-      "firstName" : null,
-      "lastName" : null,
-      "fullName" : "EL SALVADOR"
-    },
-    "country" : "ESA",
-    "score" : 23.0,
-    "scores" : [ null, null, null, {
-      "value" : 23.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null ]
-  }, {
-    "rank" : 42,
-    "fieId" : "6910",
-    "name" : {
-      "firstName" : null,
-      "lastName" : null,
-      "fullName" : "NEW ZEALAND"
-    },
-    "country" : "NZL",
-    "score" : 22.0,
-    "scores" : [ {
-      "value" : 22.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null, {
-      "value" : 22.0,
-      "included" : false,
-      "validated" : false
-    } ]
-  }, {
-    "rank" : 42,
-    "fieId" : "6892",
-    "name" : {
-      "firstName" : null,
-      "lastName" : null,
-      "fullName" : "IRELAND"
-    },
-    "country" : "IRL",
-    "score" : 22.0,
-    "scores" : [ null, null, {
-      "value" : 22.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null ]
-  }, {
     "rank" : 44,
-    "fieId" : "6913",
+    "fieId" : "6946",
     "name" : {
       "firstName" : null,
       "lastName" : null,
-      "fullName" : "QATAR"
+      "fullName" : "ALGERIA"
     },
-    "country" : "QAT",
-    "score" : 21.0,
-    "scores" : [ {
-      "value" : 21.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null, null ]
-  }, {
-    "rank" : 45,
-    "fieId" : "6890",
-    "name" : {
-      "firstName" : null,
-      "lastName" : null,
-      "fullName" : "INDIA"
-    },
-    "country" : "IND",
-    "score" : 20.0,
-    "scores" : [ {
-      "value" : 20.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null, {
-      "value" : 21.0,
-      "included" : false,
-      "validated" : false
-    } ]
-  }, {
-    "rank" : 46,
-    "fieId" : "11562",
-    "name" : {
-      "firstName" : null,
-      "lastName" : null,
-      "fullName" : "MACAO"
-    },
-    "country" : "MAC",
-    "score" : 19.0,
-    "scores" : [ {
-      "value" : 19.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, null, null, null, null, null, null, null, null, null, null, {
-      "value" : 20.0,
-      "included" : false,
-      "validated" : false
-    } ]
-  }, {
-    "rank" : 47,
-    "fieId" : "6882",
-    "name" : {
-      "firstName" : null,
-      "lastName" : null,
-      "fullName" : "DENMARK"
-    },
-    "country" : "DEN",
-    "score" : 16.0,
-    "scores" : [ null, null, null, null, null, null, null, {
+    "country" : "ALG",
+    "score" : 8.0,
+    "scores" : [ null, null, null, {
       "value" : 8.0,
       "included" : true,
       "validated" : true
-    }, {
-      "value" : 8.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, {
-      "value" : 23.0,
-      "included" : false,
-      "validated" : false
-    }, null, null ]
-  }, {
-    "rank" : 48,
-    "fieId" : "6949",
-    "name" : {
-      "firstName" : null,
-      "lastName" : null,
-      "fullName" : "BELGIUM"
-    },
-    "country" : "BEL",
-    "score" : 16.0,
-    "scores" : [ null, null, null, null, null, null, null, {
-      "value" : 8.0,
-      "included" : true,
-      "validated" : true
-    }, {
-      "value" : 8.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, {
-      "value" : 22.0,
-      "included" : false,
-      "validated" : false
-    }, null, null ]
+    }, null, null, null, null, null, null ]
   } ]
 }
