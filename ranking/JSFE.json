@@ -586,19 +586,19 @@
     } ]
   }, {
     "rank" : 21,
-    "fieId" : "6946",
+    "fieId" : "6967",
     "name" : {
       "firstName" : null,
       "lastName" : null,
-      "fullName" : "ALGERIA"
+      "fullName" : "MALI"
     },
-    "country" : "ALG",
+    "country" : "MLI",
     "score" : 52.0,
-    "scores" : [ null, null, null, {
+    "scores" : [ null, null, null, null, null, null, null, null, {
       "value" : 52.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, null, null, null ]
+    }, null ]
   }, {
     "rank" : 21,
     "fieId" : "6931",
@@ -616,19 +616,19 @@
     }, null, null, null, null ]
   }, {
     "rank" : 21,
-    "fieId" : "6967",
+    "fieId" : "6946",
     "name" : {
       "firstName" : null,
       "lastName" : null,
-      "fullName" : "MALI"
+      "fullName" : "ALGERIA"
     },
-    "country" : "MLI",
+    "country" : "ALG",
     "score" : 52.0,
-    "scores" : [ null, null, null, null, null, null, null, null, {
+    "scores" : [ null, null, null, {
       "value" : 52.0,
       "included" : true,
       "validated" : true
-    }, null ]
+    }, null, null, null, null, null, null ]
   }, {
     "rank" : 24,
     "fieId" : "6888",
@@ -669,21 +669,6 @@
     } ]
   }, {
     "rank" : 26,
-    "fieId" : "6920",
-    "name" : {
-      "firstName" : null,
-      "lastName" : null,
-      "fullName" : "THAILAND"
-    },
-    "country" : "THA",
-    "score" : 40.0,
-    "scores" : [ null, null, null, null, null, null, {
-      "value" : 40.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, null ]
-  }, {
-    "rank" : 26,
     "fieId" : "22623",
     "name" : {
       "firstName" : null,
@@ -697,6 +682,21 @@
       "included" : true,
       "validated" : true
     }, null ]
+  }, {
+    "rank" : 26,
+    "fieId" : "6920",
+    "name" : {
+      "firstName" : null,
+      "lastName" : null,
+      "fullName" : "THAILAND"
+    },
+    "country" : "THA",
+    "score" : 40.0,
+    "scores" : [ null, null, null, null, null, null, {
+      "value" : 40.0,
+      "included" : true,
+      "validated" : true
+    }, null, null, null ]
   }, {
     "rank" : 28,
     "fieId" : "6875",
@@ -718,21 +718,6 @@
     } ]
   }, {
     "rank" : 29,
-    "fieId" : "6930",
-    "name" : {
-      "firstName" : null,
-      "lastName" : null,
-      "fullName" : "COSTA RICA"
-    },
-    "country" : "CRC",
-    "score" : 36.0,
-    "scores" : [ {
-      "value" : 36.0,
-      "included" : true,
-      "validated" : true
-    }, null, null, null, null, null, null, null, null, null ]
-  }, {
-    "rank" : 29,
     "fieId" : "6945",
     "name" : {
       "firstName" : null,
@@ -747,20 +732,20 @@
       "validated" : true
     }, null, null, null, null ]
   }, {
-    "rank" : 31,
-    "fieId" : "6951",
+    "rank" : 29,
+    "fieId" : "6930",
     "name" : {
       "firstName" : null,
       "lastName" : null,
-      "fullName" : "BRAZIL"
+      "fullName" : "COSTA RICA"
     },
-    "country" : "BRA",
-    "score" : 30.0,
-    "scores" : [ null, null, null, null, null, {
-      "value" : 30.0,
+    "country" : "CRC",
+    "score" : 36.0,
+    "scores" : [ {
+      "value" : 36.0,
       "included" : true,
       "validated" : true
-    }, null, null, null, null ]
+    }, null, null, null, null, null, null, null, null, null ]
   }, {
     "rank" : 31,
     "fieId" : "6966",
@@ -777,20 +762,20 @@
       "validated" : true
     }, null, null, null, null, null, null, null ]
   }, {
-    "rank" : 33,
-    "fieId" : "6922",
+    "rank" : 31,
+    "fieId" : "6951",
     "name" : {
       "firstName" : null,
       "lastName" : null,
-      "fullName" : "CHINESE TAIPEI"
+      "fullName" : "BRAZIL"
     },
-    "country" : "TPE",
-    "score" : 28.0,
-    "scores" : [ null, null, null, null, null, null, {
-      "value" : 28.0,
+    "country" : "BRA",
+    "score" : 30.0,
+    "scores" : [ null, null, null, null, null, {
+      "value" : 30.0,
       "included" : true,
       "validated" : true
-    }, null, null, null ]
+    }, null, null, null, null ]
   }, {
     "rank" : 33,
     "fieId" : "6929",
@@ -806,6 +791,21 @@
       "included" : true,
       "validated" : true
     }, null, null, null, null ]
+  }, {
+    "rank" : 33,
+    "fieId" : "6922",
+    "name" : {
+      "firstName" : null,
+      "lastName" : null,
+      "fullName" : "CHINESE TAIPEI"
+    },
+    "country" : "TPE",
+    "score" : 28.0,
+    "scores" : [ null, null, null, null, null, null, {
+      "value" : 28.0,
+      "included" : true,
+      "validated" : true
+    }, null, null, null ]
   }, {
     "rank" : 35,
     "fieId" : "6928",
